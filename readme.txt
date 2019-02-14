@@ -1,5 +1,4 @@
 Assignment No. 2: CIS*2460 - Modelling of Computer Systems
-Bronson Graansma 0872249
  --
  To run the simulation:
  	Navigate to this directory in a command line / shell.
